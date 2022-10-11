@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Exclude Zip Gzip CSV
-.zip
-.gz
-.csv
+*.zip
+*.gz
+*.csv
+data/
